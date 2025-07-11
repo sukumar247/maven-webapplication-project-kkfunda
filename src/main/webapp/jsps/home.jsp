@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to KK DevOps</h1>
-<h1 align="center">Fee 22000 ertyuio </h1>
+<h1 align="center">Fee 22000/- </h1>
 <h1 align="center"> KK FUNDA with sukumar</h1>
 <hr>
 <br>
